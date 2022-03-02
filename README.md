@@ -1,4 +1,4 @@
-# 2022 Workshop on representing and reasoning with imperfect knowledge
+# First Workshop on Imperfect Knowledge Graphs
 
 Organisers:  Dave Raggett (W3C/ERCIM), William Van Woensel (NICHE Research Group at Dalhousie University)
 
@@ -8,7 +8,7 @@ This will be an online workshop as part of the [Knowledge Graph Conference (KGC-
 
 ## Abstract:
 
-This workshop will address uses cases and techniques for reasoning with imperfect knowledge graphs, i.e., including knowledge that is uncertain, incomplete and inconsistent. Deductive reasoning will have limited usefulness to extend imperfect knowledge graphs, as it assumes knowledge that is wholly truthful - i.e., perfect knowledge. This workshop investigates the use of plausible reasoning over knowledge graphs including imperfect knowledge, where mathematical proof is replaced by plausible arguments for and against a given premise - in other words, everyday reasoning! The foundations for this were laid by Alan Collins and his colleagues back in the 1980’s, building upon earlier work on semantic networks, and far earlier work in Ancient Greece in respect to ideas about argumentation. We plan to focus primarily, but not exclusively, on use cases for healthcare, and will discuss technical approaches for plausible reasoning in all of its forms, including, but not limited to, causal reasoning, argumentation, case-based reasoning, abductive reasoning, statistical inference, qualitative reasoning and fuzzy logic. We also welcome demonstrations and evaluations of proof-of-concept implementations.
+This workshop will address uses cases and techniques for representing and reasoning with imperfect knowledge graphs, i.e., including knowledge that is uncertain, incomplete and inconsistent. Deductive reasoning will have limited usefulness to extend imperfect knowledge graphs, as it assumes knowledge that is wholly truthful - i.e., perfect knowledge. This workshop investigates the use of plausible reasoning over knowledge graphs including imperfect knowledge, where mathematical proof is replaced by plausible arguments for and against a given premise - in other words, everyday reasoning! The foundations for this were laid by Alan Collins and his colleagues back in the 1980’s, building upon earlier work on semantic networks, and far earlier work in Ancient Greece in respect to ideas about argumentation. We plan to focus primarily, but not exclusively, on use cases for healthcare, and will discuss technical approaches for plausible reasoning in all of its forms, including, but not limited to, causal reasoning, argumentation, case-based reasoning, abductive reasoning, statistical inference, qualitative reasoning and fuzzy logic. We also welcome demonstrations and evaluations of proof-of-concept implementations.
 
 ## Workshop Introduction:
 
