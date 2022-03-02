@@ -41,6 +41,6 @@ Here are some examples of health related use cases involving imperfect knowledge
 
 * Literature-based discovery: given a literature-based KG, built with relations and concepts extracted from clinical literature (using NLP) is typically imperfect; by applying plausible reasoning (e.g., using word embeddings such as TransE), the identification missing relations may lead to the discovery of previously unknown links in the medical literature.
 
-We welcome short descriptions of health related use cases, such as above, as well as use cases for other sectors that can help to identify requirements for extending KG for dealing with imperfect knowledge.
+We welcome short descriptions of health related use cases, such as above, as well as use cases for other sectors that can help to identify requirements for extending KG for dealing with imperfect knowledge. One such use case would be safety argumentation, another might be reasoning in respect to ethical considerations. We are sure that you will have many other suggestions. 
 
 An example of a potential notation for plausible knowledge and its use for reasoning can be seen in the web-based demo at: https://www.w3.org/Data/demos/chunks/reasoning/. This work was inspired by Collins's theory of plausible reasoning, and points to opportunities for further work on richer ways to reason, including support for Daniel Kahneman's System 1 and 2 thinking.
