@@ -25,6 +25,8 @@ Alan Collins and colleagues in the 1980's developed a core theory of plausible r
 3. People are more or less certain depending on the certainty of the premises, the certainty of the inferences, and whether different inferences lead to the same or opposite conclusions.
 4. Facing a question for which there is an absence of directly applicable knowledge, people search for other knowledge that could help given applicable inferences.
 
+* See: [The logic of plausible reasoning: a core theory, Collins and Michalski, 1988](https://www.sciencedirect.com/science/article/abs/pii/0364021389900104)
+
 ## Workshop Organization:
 
 This workshop will take place online, and consist of a mix of short talks, demonstrations and round-table discussion around use cases, requirements and techniques for extending imperfect knowledge graphs. We invite position statements which will be used to guide the design of the workshop agenda. **Please contribute your ideas to the [GitHub issue tracker](https://github.com/Imperfect-Knowledge/ik2022/issues)**. We are looking for suggestions for discussion topics, and what you would like to have presented to help with the discussion. Please use email if you want to chat with the organisers directly, e.g. to provide names and contact details for people you think we should invite.
