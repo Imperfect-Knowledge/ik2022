@@ -29,7 +29,7 @@ Alan Collins and colleagues in the 1980's developed a core theory of plausible r
 
 ## Workshop Organization:
 
-This workshop will take place online, and consist of a mix of short talks, demonstrations and round-table discussion around use cases, requirements and techniques for extending imperfect knowledge graphs. We invite position statements which will be used to guide the design of the workshop agenda. **Please contribute your ideas to the [GitHub issue tracker](https://github.com/Imperfect-Knowledge/ik2022/issues)**. We are looking for suggestions for discussion topics, and what you would like to have presented to help with the discussion. Please use email if you want to chat with the organisers directly, e.g. to provide names and contact details for people you think we should invite.
+This workshop will take place online, and consist of a mix of short talks, demonstrations and round-table discussion around use cases, requirements and techniques for extending imperfect knowledge graphs. We invite position statements which will be used to guide the design of the workshop agenda. **Please contribute your ideas to the [GitHub issue tracker](https://github.com/Imperfect-Knowledge/ik2022/issues)**. We are looking for suggestions for discussion topics, and what you would like to have presented to help with the discussion. Please email ik2022@googlegroups.com if you want to chat with the organisers directly, e.g. to provide names and contact details for people you think we should invite.
 
 Here are some examples of health related use cases involving imperfect knowledge:
 
