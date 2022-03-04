@@ -29,7 +29,7 @@ Alan Collins and colleagues in the 1980's developed a core theory of plausible r
 
 ## Workshop Organization:
 
-This workshop will take place online, and consist of a mix of short talks, demonstrations and round-table discussion around use cases, requirements and techniques for extending imperfect knowledge graphs. We invite position statements which will be used to guide the design of the workshop agenda. **Please contribute your ideas to the [GitHub issue tracker](https://github.com/Imperfect-Knowledge/ik2022/issues)**. We are looking for suggestions for discussion topics, and what you would like to have presented to help with the discussion. Please email ik2022@googlegroups.com if you want to chat with the organisers directly, e.g. to provide names and contact details for people you think we should invite.
+This workshop will take place online, and consist of a mix of short talks, demonstrations and round-table discussion around use cases, requirements and techniques for extending imperfect knowledge graphs (KG). We invite position statements which will be used to guide the design of the workshop agenda. **Please contribute your ideas to the [GitHub issue tracker](https://github.com/Imperfect-Knowledge/ik2022/issues)**. We are looking for suggestions for discussion topics, and what you would like to have presented to help with the discussion. Please email ik2022@googlegroups.com if you want to chat with the organisers directly, e.g. to provide names and contact details for people you think we should invite.
 
 Here are some examples of health related use cases involving imperfect knowledge:
 
@@ -39,7 +39,7 @@ Here are some examples of health related use cases involving imperfect knowledge
 
 * Incomplete health KG: missing causal associations in health KG, such as between diagnosis and treatments, can be found via plausible reasoning over curated, large-scale medical knowledge. For instance, using medical hierarchies and relations, one can find the most specific body part to which both diagnosis and treatment apply.
 
-* Literature-based discovery: given a literature-based KG, built with relations and concepts extracted from clinical literature (using NLP) is typically imperfect; by applying plausible reasoning (e.g., using word embeddings such as TransE), the identification missing relations may lead to the discovery of previously unknown links in the medical literature.
+* Literature-based discovery: given a literature-based knowledge graphs, built with relations and concepts extracted from clinical literature (using NLP) is typically imperfect; by applying plausible reasoning (e.g., using word embeddings such as TransE), the identification missing relations may lead to the discovery of previously unknown links in the medical literature.
 
 We welcome short descriptions of health related use cases, such as above, as well as use cases for other sectors that can help to identify requirements for extending KG for dealing with imperfect knowledge. One such use case would be safety argumentation, another might be reasoning in respect to ethical considerations. We are sure that you will have many other suggestions. 
 
