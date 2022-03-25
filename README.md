@@ -1,5 +1,7 @@
 # First Workshop on Imperfect Knowledge Graphs
 
+* May 3, 2022, at 9-10:30 AM EST
+
 Organisers:  Dave Raggett (W3C/ERCIM), William Van Woensel (NICHE Research Group at Dalhousie University)
 
 This will be an online workshop as part of the [Knowledge Graph Conference (KGC-2022)](https://www.knowledgegraph.tech).
