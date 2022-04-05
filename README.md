@@ -1,12 +1,18 @@
-# First Workshop on Imperfect Knowledge Graphs
+# First International Workshop on Representing and Reasoning with Imperfect knowledge
 
-* May 3, 2022, at 9-10:30 AM EST
-
-Organisers:  Dave Raggett (W3C/ERCIM), William Van Woensel (NICHE Research Group at Dalhousie University)
-
-This will be an online workshop as part of the [Knowledge Graph Conference (KGC-2022)](https://www.knowledgegraph.tech).
+* May 3, 2022, at 9-10:30 AM EST - an online workshop as part of the [Knowledge Graph Conference (KGC-2022)](https://www.knowledgegraph.tech).
 
 <p align="center"><img alt="imperfect knowledge" src="banner.jpg" width="100%"></p>
+
+Talks:
+* Plausible reasoning with imperfect knowledge, Dave Raggett (W3C/ERCIM)
+* Use cases for imperfect knowledge, William Van Woensel, NICHE Research Group at Dalhousie University
+* Causal reasoning, Utkarshani Jaimini, AI Institute, University of Southern Carolina
+* Commonsense knowledge, _tba_
+
+Followed by round-table discussions on use cases, requirements, and technical directions
+
+Organisers:  Dave Raggett (W3C/ERCIM), William Van Woensel (NICHE Research Group at Dalhousie University)
 
 ## Abstract:
 
