@@ -5,7 +5,7 @@
 <p align="center"><img alt="imperfect knowledge" src="banner.jpg" width="100%"></p>
 
 Talks:
-* Plausible reasoning with imperfect knowledge, Dave Raggett (W3C/ERCIM)
+* Plausible reasoning with imperfect knowledge, Dave Raggett, W3C/ERCIM
 * Use cases for imperfect knowledge, William Van Woensel, NICHE Research Group at Dalhousie University
 * Causal reasoning, Utkarshani Jaimini, AI Institute, University of Southern Carolina
 * Commonsense knowledge, Filip Ilievski, Information Sciences Institute, University of Southern California
