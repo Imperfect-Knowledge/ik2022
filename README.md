@@ -9,7 +9,7 @@ Talks (12 minutes each):
 * **Use cases for imperfect knowledge**, William Van Woensel, NICHE Research Group, Dalhousie University
 * **Causal reasoning**, Utkarshani Jaimini, AI Institute, University of Southern Carolina
 * **Commonsense knowledge**, Filip Ilievski, Information Sciences Institute, University of Southern California
-* **Literature-Based Discovery**, Ali Daowd, Faculty of Graduate Studies, Dalhousie University
+* **Literature-Based Discovery**, Ali Daowd, NICHE Research Group, Dalhousie University
 
 Followed by round-table discussions on use cases, requirements, and technical directions
 
