@@ -4,11 +4,12 @@
 
 <p align="center"><img alt="imperfect knowledge" src="banner.jpg" width="100%"></p>
 
-Talks (15 minutes each):
+Talks (12 minutes each):
 * **Plausible reasoning with imperfect knowledge**, Dave Raggett, W3C/ERCIM
 * **Use cases for imperfect knowledge**, William Van Woensel, NICHE Research Group at Dalhousie University
 * **Causal reasoning**, Utkarshani Jaimini, AI Institute, University of Southern Carolina
 * **Commonsense knowledge**, Filip Ilievski, Information Sciences Institute, University of Southern California
+* **Literature-Based Discovery**, Ali Daowd, Faculty of Graduate Studies, Dalhousie University
 
 Followed by round-table discussions on use cases, requirements, and technical directions
 
