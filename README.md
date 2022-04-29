@@ -4,7 +4,7 @@
 
 <p align="center"><img alt="imperfect knowledge" src="banner.jpg" width="100%"></p>
 
-Talks (12 minutes each):
+Talks (12 minutes each including Q&A):
 * **Plausible reasoning with imperfect knowledge**, Dave Raggett, W3C/ERCIM
 * **Use cases for imperfect knowledge**, William Van Woensel, NICHE Research Group, Dalhousie University
 * **Causal reasoning**, Utkarshani Jaimini, AI Institute, University of Southern Carolina
