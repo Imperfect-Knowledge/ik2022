@@ -6,8 +6,8 @@
 
 Talks (12 minutes each including Q&A) preceded by a brief introduction by the chairs:
 * **Plausible reasoning with imperfect knowledge**, Dave Raggett, W3C/ERCIM ([Slides](IKG-22-Raggett-2022-05-03.pdf))
-* **Use cases for imperfect knowledge**, William Van Woensel, NICHE Research Group, Dalhousie University
-* **Causal reasoning**, Utkarshani Jaimini, AI Institute, University of Southern Carolina
+* **Use cases for imperfect knowledge**, William Van Woensel, NICHE Research Group, Dalhousie University ([Slides](IKG-22-Van-Woensel-2022-05-03.pdf))
+* **Causal reasoning**, Utkarshani Jaimini, AI Institute, University of Southern Carolina ([Slides](IKG-22-Utkarshani-2022-05-03.pdf))
 * **Commonsense knowledge**, Filip Ilievski, Information Sciences Institute, University of Southern California ([Slides](IKG-22-Ilievski-2022-05-03.pdf))
 * **Literature-Based Discovery**, Ali Daowd, NICHE Research Group, Dalhousie University ([Slides](IKG-22-Daowd-2022-05-03.pdf))
 
